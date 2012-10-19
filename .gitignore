@@ -1,0 +1,4 @@
+.DS_Store
+tableshadow.xcodeproj/*
+!tableshadow.xcodeproj/project.pbxproj
+
